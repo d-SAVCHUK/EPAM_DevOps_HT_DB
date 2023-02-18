@@ -45,3 +45,23 @@
 
 12.Restore your database.
 ![screen15](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot16.png)
+
+# PART 3 – MongoDB
+
+17. Create a database. Use the use command to connect to a new database (If it doesn't exist, Mongo will create it when you write to it).
+![screen16](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mongodb/Screenshot1.png)
+
+![screen17](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mongodb/Screenshot2.png)
+
+![screen18](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mongodb/Screenshot3.png)
+
+![screen19](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mongodb/Screenshot4.png)
+
+18. Create a collection. Use db.createCollection to create a collection. I'll leave the subject up to you. Run show dbs and show collections to view your database and collections.
+![screen20](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mongodb/Screenshot5.png)
+
+19. Create some documents. Insert a couple of documents into your collection. I'll leave the subject matter up to you, perhaps cars or hats.
+![screen21](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mongodb/Screenshot6.png)
+
+20. Use find() to list documents out.
+![screen22](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mongodb/Screenshot7.png)
