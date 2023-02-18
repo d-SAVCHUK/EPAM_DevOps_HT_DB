@@ -10,7 +10,7 @@
 ![screen2](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot4.png)
 
 4. Create a database on the server through the console.
-![screen3](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot11.png)
+![screen3](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot2.png)
 
 5. Fill in tables.
 ![screen4](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot5.png)
