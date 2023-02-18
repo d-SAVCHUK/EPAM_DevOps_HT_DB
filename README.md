@@ -28,4 +28,20 @@
 ![screen9](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot10.png)
 
 8. Create a database of new users with different privileges. Connect to the database as a new user and verify that the privileges allow or deny certain actions.
+![screen10](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot11.png)
+
 9. Make a selection from the main table DB MySQL.
+![screen11](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot12.png)
+
+![screen12](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot13.png)
+
+# PART 2
+
+10.Make backup of your database.
+![screen13](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot14.png)
+
+11.Delete the table and/or part of the data in the table. 
+![screen14](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot15.png)
+
+12.Restore your database.
+![screen15](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot16.png)
