@@ -19,7 +19,13 @@
 ![screen5](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot6.png)
 
 7. Execute other different SQL queries DDL, DML, DCL.
+![screen6](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot7.png)
 
+![screen7](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot8.png)
+
+![screen8](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot9.png)
+
+![screen9](https://github.com/d-SAVCHUK/EPAM_DevOps_HT_DB/blob/main/mysql/Screenshot10.png)
 
 8. Create a database of new users with different privileges. Connect to the database as a new user and verify that the privileges allow or deny certain actions.
 9. Make a selection from the main table DB MySQL.
